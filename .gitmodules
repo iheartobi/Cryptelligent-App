@@ -1,0 +1,3 @@
+[submodule "cryptelligent-backend"]
+	path = cryptelligent-backend
+	url = https://github.com/iheartobi/Cryptelligent-App.git
